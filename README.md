@@ -43,10 +43,4 @@
   <a href="https://portfoliorr.surge.sh" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=safari&logoColor=white"></a>
 </div>
 
----
 
-### 📊 Estatísticas:
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto20deluxe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto20deluxe&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
